@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commutator.Server", "Commutator.Server\Commutator.Server.csproj", "{5AAEF556-E043-4233-A978-1DB4912C3C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commutator.Client", "Commutator.Client\Commutator.Client.csproj", "{C94F9712-DD0A-46DC-B654-AB6B4CF48FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AAEF556-E043-4233-A978-1DB4912C3C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AAEF556-E043-4233-A978-1DB4912C3C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AAEF556-E043-4233-A978-1DB4912C3C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AAEF556-E043-4233-A978-1DB4912C3C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94F9712-DD0A-46DC-B654-AB6B4CF48FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94F9712-DD0A-46DC-B654-AB6B4CF48FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94F9712-DD0A-46DC-B654-AB6B4CF48FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94F9712-DD0A-46DC-B654-AB6B4CF48FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9279D8C0-C9D3-4FF5-9B96-F793C4EC8C51}
+	EndGlobalSection
+EndGlobal
